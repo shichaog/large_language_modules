@@ -1,0 +1,13 @@
+torch==2.0.1
+torchdata==0.6.1
+torchtext==0.15.2
+spacy==3.6.0
+numpy==1.25.2
+pandas
+times
+portalocker==2.7.0
+
+#python3 -m spacy download en_core_web_sm
+#python3 -m spacy download fr_core_news_sm
+
+
