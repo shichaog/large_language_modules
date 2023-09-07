@@ -21,3 +21,6 @@ Since I already write a CSDN blog about detail of the implementation and there m
 So I'm not explain each line of the codes here.
 
 I hope this repo can help you much. Good luck.
+
+Update：
+ADD LlaMA-2 fine-tune using single T4 GPU by colab.
