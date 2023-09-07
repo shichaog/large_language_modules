@@ -22,5 +22,6 @@ So I'm not explain each line of the codes here.
 
 I hope this repo can help you much. Good luck.
 
-Update：
+## LlaMA-2 fine-tune 
+202308 Update：
 ADD LlaMA-2 fine-tune using single T4 GPU by colab.
