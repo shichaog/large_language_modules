@@ -1,5 +1,10 @@
-## Paper referd
-This is a toy example implementation of paper《Attention is all you need》https://arxiv.org/abs/1706.03762.
+## About
+
+This is a series implementation of GPT, from translation example to LLM examples.
+
+The translation is based on a toy example implementation of paper《Attention is all you need》https://arxiv.org/abs/1706.03762.
+
+The LLM currently is based on Llama-2, about SFT and Chinese Llama
 
 In this repo I implement an english to french translation transformer in pytorch.
 
